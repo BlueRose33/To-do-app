@@ -3,7 +3,8 @@ h1{
     text-align: center;
 }
 body{
-    background-color: navy;
+    background-image: url("https://images.fineartamerica.com/images-medium-large-5/blue-rose-doug-long.jpg");
+    background-repeat: no-repeat;
     color: #7E86FF;
     font-size: xx-large;
 }
@@ -14,15 +15,22 @@ input{
     color: blue;
     text-align: center;
     font-size: larger;
+    margin-top: 0px;
 }
 #to-do{
     padding: 5px;
     border: dotted 3px azure;
-    text-align: center;
-    margin-left: 350px;
-    margin-right: 350px;
+    text-align: left;
+    margin-left: 425px;
+    margin-right: 425px;
     margin-bottom: 10px;
 }
 ui{
     list-style: none;
+}
+img{
+    width: 100%;
+    margin-top: 0px;
+    position: absolute
+    
 }
