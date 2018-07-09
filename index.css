@@ -1,7 +1,10 @@
 h1{
-    color: navy;
+    color: azure;
 }
 body{
-    background-color: cyan;
+    background-color: navy;
+    color: cyan;
+}
+input{
     color: blue;
 }
