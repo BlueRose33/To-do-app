@@ -1,17 +1,28 @@
 h1{
     color: cyan;
+    text-align: center;
 }
 body{
     background-color: navy;
     color: #7E86FF;
+    font-size: xx-large;
 }
 input{
     color: blue;
 }
 #create1{
     color: blue;
+    text-align: center;
+    font-size: larger;
 }
 #to-do{
     padding: 5px;
     border: dotted 3px azure;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 10px;
+}
+ui{
+    list-style: none;
 }
