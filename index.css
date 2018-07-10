@@ -37,3 +37,6 @@ img{
 #write-to-do{
     margin-right: 1950px;
 }
+.completed{
+    text-decoration: line-through;
+}
