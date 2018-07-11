@@ -12,7 +12,6 @@ $(document).ready(function(){
     
     $("input[type='checkbox']").click(function(){
         $(this).closest("li").toggleClass("completed");
-    console.log("Working button");
 });
     
 });

@@ -1,5 +1,6 @@
 body{
-    background-color: #040117
+    background-color: #040117;
+    font-size: medium;
 }
 h1{
     color: #640792;
@@ -11,4 +12,12 @@ h1{
     margin-left: 300;
     margin-right: 300;
     font-size: xx-large;
+}
+#write-to-do-in-show{
+    margin-left: 100;
+    margin-right: 500;
+    margin-bottom: 700;
+}
+#gobackbutton{
+    font-size: medium;
 }
